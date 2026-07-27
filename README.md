@@ -3,12 +3,15 @@ Projeto: O Despertar da Inteligência — Criando Conteúdos Realistas com IAs G
 Este projeto faz parte do Lab "Natty or Not" da DIO. O objetivo principal foi explorar as fronteiras entre o real e o artificial, utilizando ferramentas de Inteligência Artificial Generativa para criar conteúdos visuais e textuais altamente realistas, desafiando a percepção comum sobre o que é autêntico ou gerado por máquina.
 
 🤖 Tecnologias Utilizadas
+
 Google Gemini: Utilizado integralmente para a pesquisa inicial, geração das imagens e estruturação dos prompts orientados ao realismo e elementos naturais.
 
 🧐 Processo de Criação
+
 Concepção da Ideia: Inspirado na temática do desafio, decidi focar em explorar imagens reais e solicitar modificações focadas em inserir elementos naturais e característicos de cada ambiente original.
 
-Engenharia de Prompt: Desenvolvi comandos detalhados no Gemini solicitando ajustes visuais hiper-realistas para manter a essência da imagem original enquanto introduzia aspectos ecológicos e contextuais verídicos.
+Engenharia de Prompt: 
+Desenvolvi comandos detalhados no Gemini solicitando ajustes visuais hiper-realistas para manter a essência da imagem original enquanto introduzia aspectos ecológicos e contextuais verídicos.
 
 Geração e Refinamento: Iterei nas respostas da IA para validar e refinar as 4 imagens finais selecionadas do projeto (Ponte de Madeira, Palmeira na Praia, Lance do Maradona e Cafeteria com Mosaico).
 
