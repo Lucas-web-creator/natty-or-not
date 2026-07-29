@@ -1,5 +1,7 @@
 Projeto: O Despertar da Inteligência — Criando Conteúdos Realistas com IAs Generativas
-📒 Descrição
+
+📒 Descrição:
+
 Este projeto faz parte do Lab "Natty or Not" da DIO. O objetivo principal foi explorar as fronteiras entre o real e o artificial, utilizando ferramentas de Inteligência Artificial Generativa para criar conteúdos visuais e textuais altamente realistas, desafiando a percepção comum sobre o que é autêntico ou gerado por máquina.
 
 🤖 Tecnologias Utilizadas
@@ -30,6 +32,7 @@ Cafeteria com Mosaico: Integrada organicamente com jardinagem mediterrânea viva
 
 💭 Reflexão (Opcional)
 Criar conteúdos "natty" com IA é um exercício fascinante sobre os limites da percepção humana. À medida que as ferramentas evoluem, a linha tênue entre o que é real e o que é sintético se torna cada vez mais invisível, exigindo não apenas domínio técnico, mas também senso crítico e ético de quem utiliza essas tecnologias.
+
 
 
 <img width="736" height="981" alt="a4d0db4357e5a1fab98c926e6922e76e" src="https://github.com/user-attachments/assets/55cd9e50-4936-4da5-bedb-f9c7acf8048a" />
