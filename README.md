@@ -1,92 +1,89 @@
-Projeto: O Despertar da Inteligência — Criando Conteúdos Realistas com IAs Generativas
+### 🤖 01. Visão Geral & Desafio "Natty or Not"
 
-📒 Descrição:
+> Projeto desenvolvido como parte do Lab **"Natty or Not"** da **DIO (Digital Innovation One)**. O objetivo central foi explorar as fronteiras entre o real e o sintético, utilizando ferramentas de **Inteligência Artificial Generativa** para criar e manipular conteúdos visuais e textuais hiper-realistas, desafiando a percepção humana sobre autenticidade e alteração digital.
+>
+> **Stack & Ferramentas:** Utilização integral do **Google Gemini** para pesquisa contextual, engenharia de prompts refinada e geração/iteração das imagens com foco em fotorrealismo e fidelidade ecossistêmica.
 
-Este projeto faz parte do Lab "Natty or Not" da DIO. O objetivo principal foi explorar as fronteiras entre o real e o artificial, utilizando ferramentas de Inteligência Artificial Generativa para criar conteúdos visuais e textuais altamente realistas, desafiando a percepção comum sobre o que é autêntico ou gerado por máquina.
+---
 
-🤖 Tecnologias Utilizadas
+### 🔬 02. Processo de Criação & Engenharia de Contexto
 
-Google Gemini: Utilizado integralmente para a pesquisa inicial, geração das imagens e estruturação dos prompts orientados ao realismo e elementos naturais.
+| Etapa | Descrição da Atividade |
+| :--- | :--- |
+| **1. Concepção** | Definição da abordagem focada na alteração de cenários reais através da inserção de elementos biológicos, botânicos e contextuais verídicos. |
+| **2. Prompt Engineering** | Desenvolvimento de instruções detalhadas no Google Gemini solicitando ajustes visuais com consistência de iluminação, textura, profundidade e física dos materiais. |
+| **3. Iteração & Refinamento** | Validação analítica e ajustes finos sobre as saídas geradas para garantir hiper-realismo e alta resolução nas 4 composições do projeto. |
+| **4. Documentação** | Mapeamento comparativo e catalogação dos elementos de diferenciação sintéticos x reais. |
 
-🧐 Processo de Criação
-
-Concepção da Ideia: Inspirado na temática do desafio, decidi focar em explorar imagens reais e solicitar modificações focadas em inserir elementos naturais e característicos de cada ambiente original.
-
-Engenharia de Prompt: 
-Desenvolvi comandos detalhados no Gemini solicitando ajustes visuais hiper-realistas para manter a essência da imagem original enquanto introduzia aspectos ecológicos e contextuais verídicos.
-
-Geração e Refinamento: Iterei nas respostas da IA para validar e refinar as 4 imagens finais selecionadas do projeto (Ponte de Madeira, Palmeira na Praia, Lance do Maradona e Cafeteria com Mosaico).
-
-Documentação: Estruturei este README seguindo o template oficial da DIO para compartilhar o processo de forma clara e profissional.
-
-🚀 Resultados
-O resultado final consiste em 4 imagens e descrições detalhadas que demonstram o processo:
-
-Ponte de Madeira: Aprimorada com ecossistema de manguezal e raízes aéreas expostas.
-
-Palmeira na Praia: Enriquecida com uma zona de vegetação nativa de Restinga e dunas texturizadas.
-
-Lance do Maradona: Contraste dinâmico entre o registro real do gol de mão de 1986 e a versão simulada de um lance aéreo limpo.
-
-Cafeteria com Mosaico: Integrada organicamente com jardinagem mediterrânea viva e trepadeiras.
-
-💭 Reflexão (Opcional)
-Criar conteúdos "natty" com IA é um exercício fascinante sobre os limites da percepção humana. À medida que as ferramentas evoluem, a linha tênue entre o que é real e o que é sintético se torna cada vez mais invisível, exigindo não apenas domínio técnico, mas também senso crítico e ético de quem utiliza essas tecnologias.
+---
 
 
 
 <img width="736" height="981" alt="a4d0db4357e5a1fab98c926e6922e76e" src="https://github.com/user-attachments/assets/55cd9e50-4936-4da5-bedb-f9c7acf8048a" />
 
-Uma paisagem de praia ao amanhecer ou entardecer, capturada a partir de uma faixa de areia texturizada em primeiro plano. À esquerda, há um monte de pedras e rochas irregulares. Ao centro, ergue-se uma palmeira solitária com tronco inclinado e copa exuberante. O mar ao fundo apresenta ondas suaves que quebram na costa, sob um céu pontilhado de nuvens longas e suaves iluminadas pelos tons pastéis do sol poente.
+#### 📸 Imagem 1A: Cenário Base (Original)
+> **Descrição da Imagem Original:**  
+> Registro fotográfico de uma paisagem costeira ao entardecer, capturada a partir de uma faixa de areia texturizada em primeiro plano. À esquerda, destaca-se uma formação de rochas e pedras irregulares. Ao centro, ergue-se uma palmeira solitária com tronco inclinado e copa exuberante, posicionada ao lado de uma ponte de madeira. O mar ao fundo apresenta ondas suaves sob um céu em tons pastéis iluminado pelo sol poente.
+
+---
 
 
 <img width="896" height="1194" alt="Gemini_Generated_Image_e8y626e8y626e8y6" src="https://github.com/user-attachments/assets/e6bdb5b5-7f37-4a2e-8bc2-4533d1d60139" />
 
-Análise 1: Ponte de Madeira + Ecossistema de Mangue
-A cena da ponte ao pôr do sol foi mantida, mas adicionei um ecossistema de manguezal rico e denso ao redor da base das palmeiras e da ponte.
-
-Elemento de diferenciação: Raízes aéreas de mangue expostas na areia e caranguejos-uçá visíveis, criando um ambiente costeiro mais complexo e úmido.
-
-
+#### 🤖 Imagem 1B: Alteração via IA (Manguezal & Fauna)
+> **Descrição da Imagem Modificada (IA):**  
+> Reinterpretação gerada por IA que preserva a estrutura da ponte de madeira e o tom do pôr do sol, porém enriquecendo a biologia do local. O ambiente foi transformado em um ecossistema de manguezal denso e úmido, destacando raízes aéreas (*pneumatóforos*) expostas na areia e espécimes de caranguejo-uçá interagindo com a micro-topografia da costa.
 
 <img width="736" height="981" alt="66bff9bcb0e6cfb917f6e7524b41ae0a" src="https://github.com/user-attachments/assets/5a1151e9-6205-4b54-b9e3-1f92f823874f" />
 
-Uma fotografia de uma charmosa área externa de cafeteria integrada a uma arquitetura fantástica inspirada no estilo de Antoni Gaudí. O cenário é dominado por paredes, fachadas e escadarias curvas decoradas com intrincados mosaicos coloridos de cerâmica quebrada (trencadís) em tons de amarelo, vermelho, azul e branco. Em primeiro plano, há mesas redondas de madeira com cadeiras e xícaras de café, enquanto o balcão da cafeteria e iluminações quentes aparecem sob uma arcada revestida de mosaicos no interior.
+
+#### 📸 Imagem 2A: Cenário Base (Original)
+> **Descrição da Imagem Original:**  
+> Fotografia do pátio externo de uma cafeteria com arquitetura fantástica inspirada nas obras de Antoni Gaudí. O cenário é marcado por fachadas, arcos e escadarias curvas inteiramente revestidos por mosaicos coloridos de cerâmica (*trencadís*) em tons de amarelo, azul e vermelho. Em primeiro plano, observam-se mesas redondas de madeira com xícaras de café e iluminação aconchegante sob os arcos.
+
+---
 
 
 <img width="896" height="1194" alt="Gemini_Generated_Image_e8y626e8y626e8y6 (1)" src="https://github.com/user-attachments/assets/a8b2dee5-533b-4afe-be87-92012db6571d" />
 
-Análise 2: Cafeteria com Mosaico + Jardinagem Mediterrânea
-A arquitetura de mosaico permanece, mas a integração com o ambiente foi aprimorada com jardinagem mediterrânea viva e orgânica, em vez de apenas vasos estáticos.
 
-Elemento de diferenciação: Inclusão de trepadeiras de Bougainvillea vibrantes (rosas e roxas) crescendo organicamente pelas paredes de mosaico, canteiros elevados com ervas aromáticas (como alecrim e lavanda) e oliveiras jovens em vasos de terracota rústica, tornando o pátio um jardim comestível e perfumado.
-
+#### 🤖 Imagem 2B: Alteração via IA (Paisagismo Mediterrâneo)
+> **Descrição da Imagem Modificada (IA):**  
+> Intervenção sintética que mantém a estrutura de mosaicos, mas substitui a ornamentação estática por paisagismo mediterrâneo vivo e orgânico. A cena passa a contar com trepadeiras de *Bougainvillea* em tons de roxo e rosa crescendo pelas paredes, canteiros de ervas aromáticas (*alecrim e lavanda*) e oliveiras jovens em vasos de terracota rústica.
 
 
 <img width="736" height="1308" alt="b616acda6a01713c887dd72cf69bf76e" src="https://github.com/user-attachments/assets/db928397-eac6-4cdf-8b64-f255c4162503" />
 
-Uma foto de arquivo dos anos 80 mostrando o famoso lance de Maradona contra a Inglaterra na Copa de 1986. Maradona (camisa 10) e o goleiro inglês Peter Shilton estão no ar disputando a bola. O destaque está no braço esquerdo de Maradona esticado para cima, tocando a bola com a mão um pouco antes de sua cabeça. Ao lado, o goleiro tenta alcançá-la com as luvas em vão. O fundo mostra o gramado e as arquibancadas lotadas do Estádio Azteca sob forte luz natural.
+#### 📸 Imagem 3A: Registro Histórico Real (1986)
+> **Descrição da Imagem Real (Fato Histórico):**  
+> Foto histórica de arquivo da Copa do Mundo de 1986 no Estádio Azteca. Mostra o momento exato em que Diego Maradona (camisa 10) salta junto ao goleiro inglês Peter Shilton e projeta o braço esquerdo esticado para cima, tocando a bola com a mão frações de segundo antes de atingi-la com a cabeça, registrando a antológica e polêmica "Mão de Deus".
+
+---
 
 
 <img width="768" height="1365" alt="Gemini_Generated_Image_mamgblmamgblmamg" src="https://github.com/user-attachments/assets/1e703ffc-6103-4e4a-b00f-31088fe89194" />
 
-Análise 3: O Lance de Maradona (Real vs. IA)
-Imagem/Evento Real: O lance real da "Mão de Deus" capturado na partida entre Argentina e Inglaterra na Copa do Mundo de 1986 mostra Diego Maradona (camisa 10) saltando junto ao goleiro inglês Peter Shilton, onde Maradona usa propositalmente a mão esquerda para tocar a bola para o fundo da rede, gerando um dos momentos mais polêmicos e icônicos da história do futebol.
 
-O que foi Gerado pela IA: A imagem gerada pela inteligência artificial tentou recriar um gol de cabeça legítimo, alterando o contexto do lance real para que a cabeça de Maradona faça o contato limpo com a bola, eliminando a famosa infração da mão e transformando o lance polêmico em um gol aéreo convencional e legalizado.
+#### 🤖 Imagem 3B: Reescrita via IA (Gol Legalizado)
+> **Descrição da Imagem Modificada (IA):**  
+> Simulação sintética desenvolvida por IA que reescreve o contexto do lance histórico. A imagem altera a biomecânica do salto de Maradona, eliminando o contato da mão esquerda com a bola e posicionando sua cabeça para fazer o impacto limpo e legítimo, transformando a infração histórica em um gol aéreo legalizado.
+
 
 
 <img width="756" height="1008" alt="651aa5dc98ad17fe149a66d39ddf7c85" src="https://github.com/user-attachments/assets/549c6f51-f606-41f3-84a1-1ae6752fd49c" />
 
-Uma fotografia panorâmica aérea tirada de um ponto elevado (como o topo de uma montanha), mostrando uma vista espetacular da cidade do Rio de Janeiro. Ao fundo, o mar azul-claro estende-se até o horizonte com pequenas ilhas rochosas pontilhando a água. Em primeiro plano e ao centro, destaca-se uma montanha proeminente (com uma leve nuvem em seu topo), cercada por uma densa vegetação verde e bairros urbanizados com edifícios brancos que contornam a extensão da Lagoa Rodrigo de Freitas.
+#### 📸 Imagem 4A: Cenário Base (Original)
+> **Descrição da Imagem Original:**  
+> Vista panorâmica elevada mostrando a paisagem urbana e natural do Rio de Janeiro. Ao fundo, o mar azul-claro estende-se até o horizonte com pequenas ilhas rochosas. Em primeiro plano, observa-se o relevo montanhoso cercado por vegetação densa e a ocupação urbana contornando a Lagoa Rodrigo de Freitas sob luz natural aberta.
+
+---
 
 
 <img width="896" height="1194" alt="Gemini_Generated_Image_e8y626e8y626e8y6 (2)" src="https://github.com/user-attachments/assets/ce61c95c-3082-4c69-bb0d-b437f2c4cb9b" />
 
-Análise 4: Palmeira na Praia + Restinga Nativa
-A praia com a palmeira solitária foi preservada, mas a área de transição entre a areia e a vegetação de fundo foi enriquecida com uma zona de vegetação de Restinga nativa.
-
-Elemento de diferenciação: Adição de arbustos nativos de Restinga (como Hydrocotyle bonariensis e Spartina ciliata) e touceiras de gramíneas resistentes à salinidade na duna de areia em primeiro plano, ao redor da palmeira e das rochas, criando um ambiente costeiro ecologicamente correto e mais texturizado.
+#### 🤖 Imagem 4B: Alteração via IA (Vegetação de Restinga)
+> **Descrição da Imagem Modificada (IA):**  
+> Composição gerada por IA sobre o cenário de praia que preserva a palmeira solitária e o mar, mas introduz um bioma de Restinga nativa na zona de transição da areia. A imagem adiciona arbustos rasteiros resistentes à salinidade (*Hydrocotyle bonariensis*) e touceiras de gramíneas nas dunas frontais, conferindo precisão ecológica ao ambiente costeiro.
 
 
 
